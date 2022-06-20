@@ -139,6 +139,8 @@ export default {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  box-shadow: 0 1px 10px 0 rgb(10 17 33 / 65%);
+  border-radius: .75rem;
 }
 
 .dropdown-content ul li {
